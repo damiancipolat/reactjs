@@ -1,0 +1,8 @@
+CLASE 2:
+--------
+
+Web para compartir pantallas:
+http://webrtcweb.com/screen/?s=react
+
+Investigar 
+Object.assign();
